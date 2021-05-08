@@ -1,1 +1,63 @@
+#+begin_quote
+A porta, alta e pesada, ao fechar-se, raspou as costas da mão direita do funcionário e deixou um arranhão fundo, vermelho, quase sem sangrar.
+#+end_quote
 
+* LITERATURA ESPECULATIVA
+- How It Is in Common Tongues - https://rednoise.org/daniel/howitis
+- Hundred Thousand Billion Poems - https://en.wikipedia.org/wiki/Hundred_Thousand_Billion_Poems
+- Ten Diary Entries - https://www.researchcatalogue.net/view/26162/26226
+- Oulipo - https://en.wikipedia.org/wiki/Oulipo
+- Poesia concreta - https://pt.wikipedia.org/wiki/Poesia_concreta
+- Conditional Design Manifesto - https://conditionaldesign.org/manifesto/
+
+* PONTE ANALÓGICO/DIGITAL & PERFORMANCE NO CAMPO EXPANDIDO
+- burnedyourtweet - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
+- CONSTI2G0 - https://vimeo.com/88304676
+- Shertogenbosch - https://gieskes.nl/instruments/?file=gijs-in-shertogenbosch
+- Telephone Operator - https://www.youtube.com/watch?v=5F7RjuHsUJc
+- signalToNoise - https://www.wired.com/2013/12/this-exhibit-turns-old-school-travel-schedule-boards-into-art/ // https://www.lab-au.com/signaltonoise
+- Handwritten Invoice - https://www.mokafolio.de/works/Handwritten-Invoice
+
+- Arquivo Escuro - https://vimeo.com/241237286 // https://vimeo.com/244822407
+  - Texto da artista:
+#+begin_quote
+Ação para objeto. Uma esfera de metal descansa sobre a letra Z de um computador, formatado com fonte e preenchimento na cor preta, criando um “texto” contínuo. Ao final da exposição, gera-se um arquivo condizente com o tempo em que o objeto esteve em ação.
+
+O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de word com as seguintes características: a fonte na cor preta, o preenchimento do texto preto, sem margens. O peso de metal é então colocado sobre a letra Z do notebook, que tece potencialmente uma listra negra infinita. Teoricamente, arquivo escuro é um trabalho que aponta para o infinito. A quantidade de informação digital gerada é redundante, o que faz com que o arquivo cresça em extensão mas não em peso (bytes). Em aparência, o objeto se assemelha a uma interface de vídeo, mas tudo ali acontece no ato: é um objeto em ação. A ideia de que o trabalho esteja sendo feito no mesmo tempo em que é assistido o leva para o campo da performance, apesar de não haver qualquer interferência humana a não ser a primeira: o ato de depositar o peso na tecla Z e iniciar o texto infinito. Aliás, o aspecto talvez principal do trabalho é ele estar distante do humano: é como uma maquina esquecida em algum lugar no tempo e espaço que continuaria a produzir independente da presença do homem.
+#+end_quote
+
+- Graffiti Drone
+  - https://www.youtube.com/watch?v=Ep5tPWphKFY
+  - https://techcrunch.com/2019/07/05/this-drone-swarm-spray-painted-a-jumbo-size-graffiti-mural/
+  - https://www.youtube.com/watch?v=YTvr3jCsf0o
+
+- CNC print
+  - https://www.youtube.com/watch?v=atkGcfnsK3A
+  - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
+
+* FERRAMENTAS
+- Erasure Machine - https://shiffman.github.io/A2Z-F17/week1-strings/11_erasure/
+- Diastic Machine 1 - https://shiffman.github.io/A2Z-F17/week1-strings/12_diastic/
+  - Tutorial - https://youtu.be/u-HUtrpyi1c
+  - Código - https://github.com/shiffman/A2Z-F16/tree/gh-pages/week1-strings/12_diastic
+- Diastic Machine 2 - http://www.eddeaddad.net/eDiastic/
+- Diastic Machine 3 - http://www.languageisavirus.com/diastic-poem-generator.php
+- Cut-Up Machine 1 - http://www.languageisavirus.com/cutupmachine.php
+- Cut-Up Machine 2 - https://shiffman.github.io/A2Z-F17/week1-strings/10_cut_up_machine/#
+  - Código - https://github.com/shiffman/A2Z-F16/tree/gh-pages/week1-strings/10_cut_up_machine
+- N+7 Machine - http://www.spoonbill.org/n+7/
+- Visual Poetry - http://www.languageisavirus.com/visual-poetry/mosaic.php
+- Poem Collage - http://www.languageisavirus.com/poem-collage.php
+- Text Mixer - http://www.languageisavirus.com/text-mixer.php
+  - Markov chain - https://shiffman.net/a2z/markov/
+  - Markovmasher - https://smorgenfeld.github.io/projects/markovmasher.html
+- Rewordifier - http://www.languageisavirus.com/rewordifier/index.php
+- Text Weaver - http://www.languageisavirus.com/text-weaver.php
+- Permutator - https://mitxela.com/other/permutations.php
+
+* PROPOSTA PROJECTO
+Desenvolva, utilizando como material base o texto do conto /"Coisas"/ de José Saramago, uma peça de arte multimédia que promova um /diálogo entre as dimensões digital e analógica/, entendidas enquanto possíveis modos de existência do texto narrativo.
+Proponha um formato e mídia de apresentação que permita uma /especulação tanto com a materialidade da mídia/ escolhida, como com o /conteúdo e a estrutura do conto/. Tenha em conta as ferramentas de escrita computacional e algoritmica estudadas, as práticas de design e literatura especulativa apresentadas, e as discussões acerca do texto enquanto objeto instalativo/performativo.
+A proposta se dá no âmbito da especulação do texto enquanto material concreto, explorado por sua /plasticidade, fisicalidade, tactilidade/. É esperado portanto que o conto tenha seu conteúdo /modificado, recortado, remixado, reinterpretado/.
+
+- Data de entrega: 18/06
