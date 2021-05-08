@@ -2,7 +2,7 @@
 A porta, alta e pesada, ao fechar-se, raspou as costas da mão direita do funcionário e deixou um arranhão fundo, vermelho, quase sem sangrar.
 #+end_quote
 
-* LITERATURA ESPECULATIVA
+** LITERATURA ESPECULATIVA
 - How It Is in Common Tongues - https://rednoise.org/daniel/howitis
 - Hundred Thousand Billion Poems - https://en.wikipedia.org/wiki/Hundred_Thousand_Billion_Poems
 - Ten Diary Entries - https://www.researchcatalogue.net/view/26162/26226
@@ -10,7 +10,7 @@ A porta, alta e pesada, ao fechar-se, raspou as costas da mão direita do funcio
 - Poesia concreta - https://pt.wikipedia.org/wiki/Poesia_concreta
 - Conditional Design Manifesto - https://conditionaldesign.org/manifesto/
 
-* PONTE ANALÓGICO/DIGITAL & PERFORMANCE NO CAMPO EXPANDIDO
+** PONTE ANALÓGICO/DIGITAL & PERFORMANCE NO CAMPO EXPANDIDO
 - burnedyourtweet - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
 - CONSTI2G0 - https://vimeo.com/88304676
 - Shertogenbosch - https://gieskes.nl/instruments/?file=gijs-in-shertogenbosch
@@ -35,7 +35,7 @@ O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de wor
   - https://www.youtube.com/watch?v=atkGcfnsK3A
   - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
 
-* FERRAMENTAS
+** FERRAMENTAS
 - Erasure Machine - https://shiffman.github.io/A2Z-F17/week1-strings/11_erasure/
 - Diastic Machine 1 - https://shiffman.github.io/A2Z-F17/week1-strings/12_diastic/
   - Tutorial - https://youtu.be/u-HUtrpyi1c
@@ -56,8 +56,8 @@ O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de wor
 - Permutator - https://mitxela.com/other/permutations.php
 
 * PROPOSTA PROJECTO
-Desenvolva, utilizando como material base o texto do conto /"Coisas"/ de José Saramago, uma peça de arte multimédia que promova um /diálogo entre as dimensões digital e analógica/, entendidas enquanto possíveis modos de existência do texto narrativo.
-Proponha um formato e mídia de apresentação que permita uma /especulação tanto com a materialidade da mídia/ escolhida, como com o /conteúdo e a estrutura do conto/. Tenha em conta as ferramentas de escrita computacional e algoritmica estudadas, as práticas de design e literatura especulativa apresentadas, e as discussões acerca do texto enquanto objeto instalativo/performativo.
+Desenvolva, utilizando como material base o texto do conto /"Coisas"/ de José Saramago, uma peça de arte multimédia que promova um /diálogo entre as dimensões digital e analógica/, entendidas enquanto possíveis modos de existência do texto narrativo. \\
+Proponha um formato e mídia de apresentação que permita uma /especulação tanto com a materialidade da mídia/ escolhida, como com o /conteúdo e a estrutura do conto/. Tenha em conta as ferramentas de escrita computacional e algoritmica estudadas, as práticas de design e literatura especulativa apresentadas, e as discussões acerca do texto enquanto objeto instalativo/performativo. \\
 A proposta se dá no âmbito da especulação do texto enquanto material concreto, explorado por sua /plasticidade, fisicalidade, tactilidade/. É esperado portanto que o conto tenha seu conteúdo /modificado, recortado, remixado, reinterpretado/.
 
 - Data de entrega: 18/06
