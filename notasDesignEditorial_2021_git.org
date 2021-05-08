@@ -56,7 +56,7 @@ O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de wor
 - Permutator - https://mitxela.com/other/permutations.php
 
 * PROPOSTA PROJECTO
-Desenvolva, utilizando como material base o texto do conto /"Coisas"/ de José Saramago, uma peça de arte multimédia que promova um /diálogo entre as dimensões digital e analógica/, entendidas enquanto possíveis modos de existência do texto narrativo. \\
+Desenvolva, utilizando como material base o texto do conto "Coisas" de José Saramago, uma peça de arte multimédia que promova um /diálogo entre as dimensões digital e analógica/, entendidas enquanto possíveis modos de existência do texto narrativo. \\
 Proponha um formato e mídia de apresentação que permita uma /especulação tanto com a materialidade da mídia/ escolhida, como com o /conteúdo e a estrutura do conto/. Tenha em conta as ferramentas de escrita computacional e algoritmica estudadas, as práticas de design e literatura especulativa apresentadas, e as discussões acerca do texto enquanto objeto instalativo/performativo. \\
 A proposta se dá no âmbito da especulação do texto enquanto material concreto, explorado por sua /plasticidade, fisicalidade, tactilidade/. É esperado portanto que o conto tenha seu conteúdo /modificado, recortado, remixado, reinterpretado/.
 
